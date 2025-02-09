@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "tencentcloud-sdk-nodejs": "^4.0.1025"
+  }
+}
